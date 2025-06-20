@@ -1,0 +1,12 @@
+# Ignore virtual environment folder
+venv/
+# Ignore environment variable files
+.env
+# (optional) Ignore any other temp files
+*.pyc
+__pycache__/
+dist/
+build/
+*.spec
+*.exe
+log.txt
